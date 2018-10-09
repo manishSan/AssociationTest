@@ -1,0 +1,34 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "88MPW8R88P.com.chase",
+                "paths": [
+                    "/personal-banking/login-quickpay",
+                    "/web/auth/*"
+                ]
+            },
+            {
+                "appID": "7548H5BWX5.com.chase.enterprisedistribution",
+                "paths": [
+                    "/personal-banking/login-quickpay",
+                    "/web/auth/*"
+                ]
+            },
+            {
+                "appID": "G262XGGUKK.com.chase.finn",
+                "paths": [
+                    "/personal/finnbank"
+                ]
+            },
+			{
+                "appID": "43S3J8T49X.com.chase.manishsanwal",
+				"paths": [
+					"/personal-banking/login-quickpay",
+					"/web/auth/*"
+				]
+            }
+        ]
+    }
+}
